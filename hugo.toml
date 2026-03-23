@@ -1,0 +1,9 @@
+baseURL = "https://sisy.help/"
+languageCode = "en-us"
+title = "SISY Help - Support Center"
+
+[params]
+  description = "Find answers, guides, and support for the SISY expert visibility platform. Help for experts, organizers, and community members."
+
+[markup.goldmark.renderer]
+  unsafe = true
